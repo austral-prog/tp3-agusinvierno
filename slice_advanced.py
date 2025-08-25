@@ -3,7 +3,6 @@ def slice_advanced():
 
     print(texto[4: :2])
 
-slice_advanced()
 
 # Código a implementar utilizando input.
 
